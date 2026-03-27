@@ -1,1 +1,2 @@
 include ':app', ':termux-shared', ':terminal-emulator', ':terminal-view'
+mkdir -p /sdcard/818_Digital_Brain/{00_PROTOCOL_818,01_RAIZ_INDEX,02_PROCESO_FLOW,03_FRUTO_PHI}
